@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2067402452, guid: bab6fa851cf5a1a4bba3cec5f191cb8e, type: 3}
+  m_Name: VuforiaConfiguration
+  m_EditorClassIdentifier: 
+  vuforia:
+    vuforiaLicenseKey: AQF5rLP/////AAABmfu66B3T00xJg0DT0t1+UT0m3s439MgP85WZDahKluTGNX2MUyO9ARqjjHiMxxn2GOx1mah120n2qnpSu5A+8g4O9XT4GRtxssXO0X5CzSJTjvkIsu6T8JmhMIFUTxLUtq9CJGi5KB6xyGm+0pVyQzY0M8E2psljhfXo+J2vSE/IAf/8cnwEHCnuWM2j8xD0Wo101KDhPNA0MdMnMOhXXzNiMggBLoQRe7gpeqoTQPsGDVUDPdYw4t2m4u19JELxy4wpLFQOmhJeALUcj3/WXfzQgIanh9Bj+bN+Br2UdMXekdVrsAfDmLH7it0YBAlKTThMa4/oqMKElmJtIxqwuhqL9KmyH21+fgI9HM2DPPps
+    ufoLicenseKey: QVRWcXV2Ny8vLy8vQUFBQUtJTS9wSW40cVVIRWdJVmxjWnFvYlgweEx1SjVqNkhtOHI1Z2RmNXk1TGM0R2RKSzJvdDBwMFBFWUZLV3BqSWxCMkloSFF4dEI0ZVVjVDE0cStIQXdCWTVDejNOYjR1cDU2VW85U1k0NXppcHZlaFlFUGxxZmlMT0swSHJFWHlhM2NXdXcvSXMwdjJSV1R5a3JLZlBDU2U4NWx4dnVjT1FEY2h5RzF6U0E1eXlNdzZpbnVZOEhjRS96UzRuak14K28yRlZaYThnb0UrK1FUd2x4aTBhbHdPY0VOWVNHdUQ1dmp0N1R0Wnd0UXFNWFdIS21LNTNEZm9OYTBhbjhXeEh1ckIyVVhjalpLRkZhQU9ibFJNa204V0Y2Y3E4N2cvWnd4aDFIRHhnUm82TWFxUlFldFdrUjhDN0JURGpGVWhtcmdsSytyejVvb21kVWVORWJZZkl3amJEVTRkaWdQMEcxMExXUndJNzZlZGQ=
+    delayedInitialization: 0
+    cameraDeviceModeSetting: -1
+    maxSimultaneousImageTargets: 1
+    maxSimultaneousObjectTargets: 1
+    useDelayedLoadingObjectTargets: 0
+    modelTargetRecoWhileExtendedTracked: 1
+    version: 8.5.9
+    eulaAcceptedVersions: '{"Values":["8.1","8.5"]}'
+  database:
+    disableModelExtraction: 0
+  videoBackground:
+    numDivisions: 2
+    videoBackgroundShader: {fileID: 4800000, guid: f40623b353e2f1943b1b3ba42975db7a,
+      type: 3}
+    videoBackgroundEnabled: 1
+  deviceTracker:
+    autoInitTracker: 0
+    autoStartTracker: 0
+    arcoreRequirement: 0
+    autoImportArcore: 0
+  smartTerrain:
+    autoInitTracker: 0
+    autoStartTracker: 0
+  webcam:
+    deviceNameSetInEditor: Lenovo EasyCamera
+    turnOffWebCam: 0
+    renderTextureLayer: 30

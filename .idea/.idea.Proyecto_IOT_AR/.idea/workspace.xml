@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2f6bd35-371c-4928-933e-ffe638064e11" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Button_behaviors/Temperature/TemperatureController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Button_behaviors/Lever_02/LampController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/MQTT_SCRIPTS/DashBoards.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Button_behaviors/Button_02/YellowButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Button_behaviors/Button_02/Handler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/MQTT_SCRIPTS/TOPICS/TestTopic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Button_behaviors/Button_04/ButtonUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Button_behaviors/Button_02/BlueButton.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/MQTT/scripts/test/mqttTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/MQTT_SCRIPTS/TOPICS/TestTopic.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Button_behaviors/Button_02.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Button_behaviors/Button_02/Button_02_lever_part1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Button_behaviors/Button_02/Button_02_part_2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Button_behaviors/Button_02/YellowButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Button_behaviors/Button_02/BlueButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Button_behaviors/Button_02/Handler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Button_behaviors/ScrollText/ScrollText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Button_behaviors/Lever_02/LampController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Button_behaviors/Button_04/ButtonDown.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Button_behaviors/Button_04/ButtonUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/MQTT_SCRIPTS/DashBoards.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Button_behaviors/Temperature/TemperatureController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Button_behaviors/KeyPad/KeyPad.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mAK69wpG8hCS2IpgFnxR99TsKa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2f6bd35-371c-4928-933e-ffe638064e11" name="Default Changelist" comment="" />
+      <created>1608930842622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608930842622</updated>
+      <workItem from="1608931007419" duration="10268000" />
+      <workItem from="1609012455547" duration="12672000" />
+      <workItem from="1609109520125" duration="12334000" />
+      <workItem from="1609217257051" duration="3557000" />
+      <workItem from="1609267368235" duration="10365000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="764" y="194" key="RiderGenerateDialog" timestamp="1608934336828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="764" y="194" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608934336828" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1609045675271">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609045675271" />
+  </component>
+</project>

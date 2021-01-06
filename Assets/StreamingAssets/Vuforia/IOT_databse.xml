@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="locker" size="800.000000 800.000000" />
+    <ImageTarget name="Temperature" size="800.000000 800.000000" />
+    <ImageTarget name="Counter" size="800.000000 682.430969" />
+    <ImageTarget name="LampController" size="800.000000 600.000000" />
+    <ImageTarget name="ScrollText" size="800.000000 450.704224" />
+    <ImageTarget name="FanControllerOP2" size="800.000000 704.594360" />
+    <ImageTarget name="fanController" size="800.000000 817.610046" />
+  </Tracking>
+</QCARConfig>
