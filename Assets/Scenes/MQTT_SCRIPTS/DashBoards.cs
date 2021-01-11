@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections;
-using System.Collections.Generic;
 using System.Net;
 using UnityEngine;
 using uPLibrary.Networking.M2Mqtt;
@@ -20,10 +18,13 @@ public class DashBoards : MonoBehaviour
     public ScrollText scrollText;
     public LampController lampController;
     public TemperatureController temperatureController;
+    public LuminiscenseSensor luminiscenseSensorController;
+    
     private String pwm_status = "pwm_status";
     private String msg_status = "msg_status";
     private string lamp_status = "lamp_status";
     private string temperature_status = "ArduinoTemperatureSensor";
+    private string luminiscense_sensor = "ArduinoLuminiscense";
     
     
     void Start()
@@ -38,6 +39,7 @@ public class DashBoards : MonoBehaviour
         client.Subscribe(new string[] { msg_status }, new byte[] { MqttMsgBase.QOS_LEVEL_EXACTLY_ONCE });
         client.Subscribe(new string[] { lamp_status }, new byte[] { MqttMsgBase.QOS_LEVEL_EXACTLY_ONCE });
         client.Subscribe(new string[] { temperature_status }, new byte[] { MqttMsgBase.QOS_LEVEL_EXACTLY_ONCE });
+        client.Subscribe(new string[] { luminiscense_sensor }, new byte[] { MqttMsgBase.QOS_LEVEL_EXACTLY_ONCE });
 
         
     }
@@ -83,6 +85,14 @@ public class DashBoards : MonoBehaviour
             lastMessage = lastMessage.Trim();
             
             temperatureController.RequestUpdateText(float.Parse(lastMessage));
+        }
+
+        if (lastMessage.Contains("luminescence"))
+        {
+            lastMessage = lastMessage.Replace("luminescence = ", "");
+            lastMessage = lastMessage.Trim();
+            Debug.Log("luminscense = " + lastMessage);
+            luminiscenseSensorController.SetLuminiscense(float.Parse(lastMessage));
         }
     }
 

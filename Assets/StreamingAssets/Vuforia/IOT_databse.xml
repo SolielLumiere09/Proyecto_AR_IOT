@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="DayNightSensor" size="800.000000 517.338318" />
     <ImageTarget name="locker" size="800.000000 800.000000" />
     <ImageTarget name="Temperature" size="800.000000 800.000000" />
     <ImageTarget name="Counter" size="800.000000 682.430969" />

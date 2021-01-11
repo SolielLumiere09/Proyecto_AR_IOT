@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a1239f2-da13-4a7d-b69c-c7c2fa284d8a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT.atsln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/ArduinoCore.componentinfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/ArduinoCore.cppproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/libArduinoCore.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/makedep.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/CDC.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/CDC.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/HardwareSerial.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/HardwareSerial.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/HardwareSerial0.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/HardwareSerial0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/HardwareSerial1.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/HardwareSerial1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/HardwareSerial2.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/HardwareSerial2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/HardwareSerial3.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/HardwareSerial3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/IPAddress.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/IPAddress.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/PluggableUSB.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/PluggableUSB.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/PreprocessingAssembly/wiring_pulse.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/PreprocessingAssembly/wiring_pulse.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/Print.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/Print.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/Stream.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/Stream.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/Tone.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/Tone.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/USBCore.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/USBCore.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/WInterrupts.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/WInterrupts.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/WMath.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/WMath.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/WString.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/WString.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/abi.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/abi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/hooks.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/hooks.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/main.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/new.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/new.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/wiring.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/wiring.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/wiring_analog.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/wiring_analog.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/wiring_digital.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/wiring_digital.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/wiring_pulse.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/wiring_pulse.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/wiring_shift.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/core/wiring_shift.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/libraries/PubSubClient/PubSubClient.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/libraries/PubSubClient/PubSubClient.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/libraries/WiFiEsp/WiFiEsp.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/libraries/WiFiEsp/WiFiEsp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/libraries/WiFiEsp/WiFiEspClient.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/libraries/WiFiEsp/WiFiEspClient.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/libraries/WiFiEsp/WiFiEspServer.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/libraries/WiFiEsp/WiFiEspServer.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/libraries/WiFiEsp/WiFiEspUdp.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/libraries/WiFiEsp/WiFiEspUdp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/libraries/WiFiEsp/utility/EspDrv.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/libraries/WiFiEsp/utility/EspDrv.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/libraries/WiFiEsp/utility/RingBuffer.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/Debug/src/libraries/WiFiEsp/utility/RingBuffer.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/core/Arduino.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/core/Client.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/core/HardwareSerial.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/core/HardwareSerial_private.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/core/IPAddress.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/core/PluggableUSB.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/core/Print.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/core/Printable.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/core/Server.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/core/Stream.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/core/USBAPI.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/core/USBCore.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/core/USBDesc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/core/Udp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/core/WCharacter.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/core/WString.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/core/binary.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/core/new.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/core/wiring_private.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/libraries/PubSubClient/PubSubClient.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/libraries/WiFiEsp/WiFiEsp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/libraries/WiFiEsp/WiFiEspClient.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/libraries/WiFiEsp/WiFiEspServer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/libraries/WiFiEsp/WiFiEspUdp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/libraries/WiFiEsp/utility/EspDrv.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/libraries/WiFiEsp/utility/RingBuffer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/libraries/WiFiEsp/utility/debug.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/include/variants/mega/pins_arduino.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/library.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/CDC.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/HardwareSerial.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/HardwareSerial0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/HardwareSerial1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/HardwareSerial2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/HardwareSerial3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/IPAddress.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/PluggableUSB.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/PreprocessingAssembly/wiring_pulse.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/Print.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/Stream.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/Tone.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/USBCore.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/WInterrupts.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/WMath.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/WString.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/abi.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/hooks.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/new.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/wiring.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/wiring_analog.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/wiring_digital.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/wiring_pulse.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/core/wiring_shift.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/libraries/PubSubClient/PubSubClient.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/libraries/WiFiEsp/WiFiEsp.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/libraries/WiFiEsp/WiFiEspClient.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/libraries/WiFiEsp/WiFiEspServer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/libraries/WiFiEsp/WiFiEspUdp.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/libraries/WiFiEsp/utility/EspDrv.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ArduinoCore/src/libraries/WiFiEsp/utility/RingBuffer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/Debug/MQTT/MQTT.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/Debug/MQTT/MQTT.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/Debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/Debug/MaxMatrix/MaxMatrix.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/Debug/MaxMatrix/MaxMatrix.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/Debug/ProyectoIOT.eep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/Debug/ProyectoIOT.elf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/Debug/ProyectoIOT.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/Debug/ProyectoIOT.lss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/Debug/ProyectoIOT.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/Debug/ProyectoIOT.srec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/Debug/ScrollText/ScrollText.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/Debug/ScrollText/ScrollText.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/Debug/Sketch.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/Debug/Sketch.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/Debug/makedep.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/MQTT/MQTT.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/MQTT/MQTT.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/MaxMatrix/MaxMatrix.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/MaxMatrix/MaxMatrix.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/ProyectoIOT.componentinfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/ProyectoIOT.cppproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/ScrollText/ScrollText.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/ScrollText/ScrollText.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ARDUINO/ProyectoIOT/ProyectoIOT/ProyectoIOT/Sketch.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/IOT_databse/Counter_scaled.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/IOT_databse/Counter_scaled.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/IOT_databse/FanControllerOP2_scaled.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/IOT_databse/FanControllerOP2_scaled.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/IOT_databse/LampController_scaled.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/IOT_databse/LampController_scaled.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/IOT_databse/ScrollText_scaled.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/IOT_databse/ScrollText_scaled.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/IOT_databse/Temperature_scaled.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/IOT_databse/Temperature_scaled.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/IOT_databse/fanController_scaled.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/IOT_databse/fanController_scaled.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/IOT_databse/locker_scaled.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/IOT_databse/locker_scaled.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/VuforiaConfiguration.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/VuforiaConfiguration.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/IOT_AR.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/IOT_AR.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MQTT_SCRIPTS/DashBoards.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MQTT_SCRIPTS/DashBoards.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/IOT_databse.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/IOT_databse.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/IOT_databse.dat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/IOT_databse.dat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/IOT_databse.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/IOT_databse.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/IOT_databse.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/IOT_databse.xml.meta" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scenes/Button_behaviors/Luminiscense/LuminiscenseSensor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/MQTT_SCRIPTS/DashBoards.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mlCg4wwo0M92IeEsFUyywrcj31" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a1239f2-da13-4a7d-b69c-c7c2fa284d8a" name="Default Changelist" comment="" />
+      <created>1610058973876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610058973876</updated>
+      <workItem from="1610059130181" duration="7470000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1610063610896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610063610896" />
+  </component>
+</project>
